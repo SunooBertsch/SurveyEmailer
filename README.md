@@ -1,6 +1,6 @@
 # SurveyEmailer
 
-Simple app to send surveys to customers for feedback on products/services.
+Fast, responsive web application to send customizable surveys to customers for feedback on products/services.
 
 **Technologies Used**
 
