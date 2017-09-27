@@ -4,13 +4,28 @@ Fast, responsive web application to send customizable surveys to customers for f
 
 **Technologies Used**
 
-Javascript(ES2017)
-React.js
-Node.js
-Redux
-MongoDB
-Passport.js
-Google OAuth
-Mongoose
-MaterializeCSS
+### Javascript(ES6)
+  
+### React.js
+  
+### Node.js
+  
+### Redux
+  
+### Express.js
+  
+### MongoDB
+  
+### Mongoose
+  
+### Passport.js
+  
+### Google OAuth
+  
+### Heroku Deployment
+
+### Stripe Payments
+  
+### MaterializeCSS
+  
 
