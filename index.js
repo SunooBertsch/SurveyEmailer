@@ -3,6 +3,7 @@ const mongoose = require("mongoose");
 const cookieSession = require("cookie-session");
 const keys = require("./config/keys");
 const passport = require("passport");
+const bodyParser = require("body-parser");
 require("./models/User");
 require("./services/passport");
 
@@ -10,6 +11,7 @@ mongoose.connect(keys.mongoURI);
 
 const app = express();
 
+app.use(bodyParser.json());
 app.use(
   cookieSession({
     // Sets cookie to last 30 days in milliseconds
